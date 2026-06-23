@@ -1,0 +1,9 @@
+node_modules/
+dist/
+server/uploads/
+server/data.json
+*.log
+.env
+.DS_Store
+.vercel-tmp/
+.vercel/
